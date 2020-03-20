@@ -1,0 +1,11 @@
+fst\sir\biblio\bean\Emprunt.class
+fst\sir\biblio\bean\EmpruntDetail.class
+fst\sir\biblio\bean\Bibliotheque.class
+fst\sir\biblio\bean\Livre.class
+fst\sir\biblio\bean\Adherent.class
+fst\sir\biblio\bean\Categorie.class
+fst\sir\biblio\bean\Fournisseur.class
+fst\sir\biblio\bean\TypeAdherent.class
+fst\sir\biblio\bean\Achat.class
+fst\sir\biblio\bean\AchatDetail.class
+fst\sir\biblio\BiblioApplication.class
